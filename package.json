@@ -4,7 +4,9 @@
   "description": "Would be used for the TnT R package.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "browserify -o build/tnt.r.js browser.js",
+    "watch": "watchify -o build/tnt.r.js browser.js"
   },
   "repository": {
     "type": "git",
