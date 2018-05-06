@@ -1,0 +1,25 @@
+{
+  "name": "tnt.r",
+  "version": "0.0.1",
+  "description": "Would be used for the TnT R package.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Marlin-Na/tnt.r.git"
+  },
+  "keywords": [
+    "tnt",
+    "R",
+    "genome",
+    "browser"
+  ],
+  "author": "Jialin Ma",
+  "license": "AGPL-3.0",
+  "bugs": {
+    "url": "https://github.com/Marlin-Na/tnt.r/issues"
+  },
+  "homepage": "https://github.com/Marlin-Na/tnt.r#readme"
+}
